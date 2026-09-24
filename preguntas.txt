@@ -1,4 +1,4 @@
-CATEGORIA: Fundamentos Tradicionales PMBOK
+CATEGORIA: Metodologias Agiles y Marco Scrum (UPNA)
 Pregunta 1: ¿cual es la duración máxima recomendada de un daily scrum?
 A) 30 minutos
 B) 15 minutos
